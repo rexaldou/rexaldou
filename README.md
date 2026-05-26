@@ -1,16 +1,20 @@
-## Hi there 👋
+![Abydos Banner](masukin-link-gambar-blue-archive-kamu-disini.jpg)
+# Uhe~ Welcome to my GitHub! 💤
 
-<!--
-**rexaldou/rexaldou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Rexaldo! 👋
+I'm a 1st-semester Informatics Engineering student who loves building creative and efficient solutions. When I'm not studying or taking a nap, I work on freelance web and graphic design projects.
 
-Here are some ideas to get you started:
+* 🎓 **Currently studying:** Informatics Engineering
+* 💻 **Tech Stack:** Frontend Web Design, WordPress, Elementor, Canva
+* 🌱 **Currently learning:** C++, Cloud Architecture, and AI Specialization
+* 💼 **Status:** Open for freelance projects! (Hit me up for web/graphic design)
+* ⚡ **Fun fact:** I can survive on minimal sleep if the code is interesting enough.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Coding Stats
+![Rexaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexaldho&show_icons=true&theme=tokyonight)
+
+### 🎧 Now Playing
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api?theme=tokyonight)](https://spotify.com)
+
+---
+> *"Even if it's boring or impossible, I'll sleep through it. But right now, let's finish this code."* - Takanashi Hoshino
