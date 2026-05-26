@@ -11,7 +11,7 @@ I'm a 1st-semester Informatics Engineering student who loves building creative a
 * ⚡ **Fun fact:** I can survive on minimal sleep if the code is interesting enough.
 
 ### 📊 My Coding Stats
-![Rexaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexaldho&show_icons=true&theme=tokyonight)
+![Rexaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexaldou&show_icons=true&theme=tokyonight)
 
 ### 🎧 Now Playing
 [![Spotify](https://novatorem-spotify-readme.vercel.app/api?theme=tokyonight)](https://spotify.com)
