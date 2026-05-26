@@ -1,4 +1,4 @@
-![Abydos Banner](masukin-link-gambar-blue-archive-kamu-disini.jpg)
+![Abydos Banner](https://4kwallpapers.com/images/walls/thumbs_3t/25273.jpg)
 # Uhe~ Welcome to my GitHub! 💤
 
 Hi, I'm Rexaldo! 👋
